@@ -5,6 +5,12 @@
   "icon": "💼",
   "color": "#7c3aed",
   "emails": [
+      {
+        "id": "pt-kickoff-1",
+        "title": "Kick-off Email 1",
+        "subject": "Pentest Kick-off Email",
+        "body": "Hi,\n\nI am the consultant managing the <<AssessmentType>> assessment that has been scheduled with you. I am just sending a quick email to let you know that testing for this project has begun.\n\nIf I have any issues or require additional information, I will reach out. If you have any questions during the engagement, please feel free to contact me directly.\n\nMany Thanks,"
+    },
     {
       "id": "kickoff-intro",
       "title": "Project Kickoff Introduction",
