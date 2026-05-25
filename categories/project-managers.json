@@ -6,16 +6,16 @@
   "color": "#f97316",
   "emails": [
     {
-      "id": "raid-update",
-      "title": "RAID Log Update",
-      "subject": "<<PROJECT NAME>> – RAID log update",
-      "body": "Hi all,\n\nPlease find below the latest RAID update for <<PROJECT NAME>>.\n\nRisks\n  • <<RISK 1>>\n  • <<RISK 2>>\n\nAssumptions\n  • <<ASSUMPTION 1>>\n  • <<ASSUMPTION 2>>\n\nIssues\n  • <<ISSUE 1>>\n  • <<ISSUE 2>>\n\nDependencies\n  • <<DEPENDENCY 1>>\n  • <<DEPENDENCY 2>>\n\nLet me know if anything looks off or if you'd like to discuss any of the items in more detail.\n\nThanks,\n<<YOUR NAME>>"
+      "id": "auth-form",
+      "title": "Auth Form 1",
+      "subject": "Auth Form - No Dates Provided",
+      "body": "Hi, \n\nI hope you're well \n\nPlease can you complete our authorisation form with the application details you would like tested? For this assessment we need <<AssessmentType>> sections completed. \n\nOnce we have received the completed form, I will provide our next availability to get your testing booked in with us. \n\nBest wishes,"
     },
     {
-      "id": "change-request",
-      "title": "Change Request Notification",
-      "subject": "Change Request <<CR NUMBER>> – <<PROJECT NAME>>",
-      "body": "Hi <<CLIENT NAME>>,\n\nA new change request has been raised on <<PROJECT NAME>>. Summary below for your review and approval.\n\nReference: <<CR NUMBER>>\nRaised by: <<RAISED BY>>\nDate: <<DATE>>\n\nDescription\n<<DESCRIPTION>>\n\nReason for change\n<<REASON>>\n\nImpact\n  • Schedule: <<SCHEDULE IMPACT>>\n  • Cost: <<COST IMPACT>>\n  • Scope: <<SCOPE IMPACT>>\n\nRecommendation\n<<RECOMMENDATION>>\n\nCould you confirm approval (or feedback) by <<RESPONSE BY DATE>> so we can keep things moving.\n\nThanks,\n<<YOUR NAME>>"
+      "id": "confirm-dates",
+      "title": "Confirming Dates",
+      "subject": "Set date for pentest",
+      "body": "Hi, \n\nThank you for sending over the completed authorisation form to us\n\nOur next availability to carry out this testing will be the <<Dates>>, would that work for you? If so, let me know and I can secure these dates on our end.\n\nBest wishes,"
     },
     {
       "id": "milestone-complete",

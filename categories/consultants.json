@@ -8,14 +8,14 @@
       {
         "id": "pt-kickoff-1",
         "title": "Kick-off Email 1",
-        "subject": "Pentest Kick-off Email",
+        "subject": "Kick-off Email",
         "body": "Hi,\n\nI am the consultant managing the <<AssessmentType>> assessment that has been scheduled with you. I am just sending a quick email to let you know that testing for this project has begun.\n\nIf I have any issues or require additional information, I will reach out. If you have any questions during the engagement, please feel free to contact me directly.\n\nMany Thanks,"
     },
     {
-      "id": "kickoff-intro",
-      "title": "Project Kickoff Introduction",
-      "subject": "Kickoff & next steps for <<PROJECT NAME>>",
-      "body": "Hi <<CLIENT NAME>>,\n\nThanks again for choosing us to support <<PROJECT NAME>>. I wanted to formally introduce myself as the lead consultant on the engagement and outline what to expect over the next couple of weeks.\n\nOver the next <<DURATION>>, we will:\n  • Run a kickoff workshop to align on scope, goals, and success metrics\n  • Confirm stakeholders, RACI, and the working cadence\n  • Set up our shared workspace and recurring touchpoints\n\nCould you let me know which of the following slots works best for the kickoff?\n  1. <<OPTION 1>>\n  2. <<OPTION 2>>\n  3. <<OPTION 3>>\n\nIf any of these don't work, just send a couple of alternatives and I'll get something on the calendar.\n\nLooking forward to getting started.\n\nBest regards,\n<<YOUR NAME>>"
+      "id": "pt-wrapup-1",
+      "title": "Wrap-up Email 1",
+      "subject": "Wrap-up Email - No high or crit",
+      "body": "Hi,\n\nI am writing to confirm that the <<AssessmentType>> assessment have been completed.\n\nNo critical issues requiring immediate attention were identified. However, some lower-severity findings were noted and will be detailed in the final report. This report will be shared with you once our internal quality assurance process is complete.\n\nThank you for your assistance throughout the assessment.\n\nMany Thanks,"
     },
     {
       "id": "weekly-status",
