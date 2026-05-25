@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "pentesters",
+      "name": "Pentesters",
+      "templates": [
+        {
+          "id": "pentest-scope",
+          "name": "Scope Confirmation",
+          "subject": "Scope Confirmation — <<ClientName>>",
+          "body": "Hi <<FirstName>>,\n\nJust confirming the scope for <<ProjectName>>.\n\nKind regards"
+        }
+      ]
+    },
+    {
+      "id": "project-managers",
+      "name": "Project Managers",
+      "templates": []
+    },
+    {
+      "id": "onboarding",
+      "name": "Onboarding",
+      "templates": []
+    },
+    {
+      "id": "account-managers",
+      "name": "Account Managers",
+      "templates": []
+    }
+  ]
+}
