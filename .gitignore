@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
-# Track only the categories file
-!categories.json
+# Except the categories folder and its contents
 !.gitignore
+!categories/
+!categories/**

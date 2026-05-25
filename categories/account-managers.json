@@ -1,0 +1,33 @@
+{
+  "id": "account-managers",
+  "name": "Account Managers",
+  "description": "Relationship, renewal, and commercial templates.",
+  "icon": "🤝",
+  "color": "#0ea5e9",
+  "emails": [
+    {
+      "id": "qbr-invite",
+      "title": "Quarterly Business Review Invite",
+      "subject": "<<COMPANY NAME>> – Quarterly Business Review",
+      "body": "Hi <<CLIENT NAME>>,\n\nIt's that time again – I'd love to get a Quarterly Business Review on the calendar so we can review how the partnership is performing and plan for the next quarter.\n\nWhat I'd like to cover:\n  • Wins and outcomes from the past quarter\n  • Adoption and usage trends\n  • Roadmap items relevant to <<COMPANY NAME>>\n  • Priorities and goals for the next quarter\n\nA few options for a 60 minute slot:\n  1. <<OPTION 1>>\n  2. <<OPTION 2>>\n  3. <<OPTION 3>>\n\nIf none of those work, send me a few alternatives and I'll make it work.\n\nLooking forward to it.\n\nBest,\n<<YOUR NAME>>"
+    },
+    {
+      "id": "renewal-heads-up",
+      "title": "Renewal Heads-up (90 days)",
+      "subject": "Heads-up: <<COMPANY NAME>> renewal coming up on <<RENEWAL DATE>>",
+      "body": "Hi <<CLIENT NAME>>,\n\nYour <<PRODUCT OR SERVICE>> agreement is up for renewal on <<RENEWAL DATE>>, so I wanted to give you a heads-up well in advance and make the process as smooth as possible.\n\nA few things I'd like to align on:\n  • Any changes to user count, scope, or modules\n  • Feedback on the past 12 months – what's worked, what hasn't\n  • Goals for the year ahead so we can shape the renewal accordingly\n\nWould you have 30 minutes in the next week or two? Some options:\n  1. <<OPTION 1>>\n  2. <<OPTION 2>>\n  3. <<OPTION 3>>\n\nThanks,\n<<YOUR NAME>>"
+    },
+    {
+      "id": "check-in",
+      "title": "Friendly Check-in",
+      "subject": "Checking in",
+      "body": "Hi <<CLIENT NAME>>,\n\nIt's been a little while since we last caught up – I just wanted to check in and see how things are going at <<COMPANY NAME>>.\n\nA few things on my side:\n  • <<UPDATE 1>>\n  • <<UPDATE 2>>\n\nNo agenda required – happy to just have a chat. If you'd like to grab 20 minutes in the next couple of weeks, let me know what works.\n\nSpeak soon,\n<<YOUR NAME>>"
+    },
+    {
+      "id": "intro-new-contact",
+      "title": "Introduction to New Contact",
+      "subject": "Quick introduction",
+      "body": "Hi <<CONTACT NAME>>,\n\n<<REFERRER NAME>> suggested I reach out – I'm the account manager for <<COMPANY NAME>> here at <<OUR COMPANY>>, and I look after our partnership with you.\n\nA bit of context on what we do together:\n  • <<CONTEXT POINT 1>>\n  • <<CONTEXT POINT 2>>\n\nI'd love to get 20 minutes on the calendar to introduce myself properly and understand what's important to you in <<ROLE OR AREA>>.\n\nWould any of these work?\n  1. <<OPTION 1>>\n  2. <<OPTION 2>>\n  3. <<OPTION 3>>\n\nLooking forward to connecting.\n\nBest,\n<<YOUR NAME>>"
+    }
+  ]
+}
