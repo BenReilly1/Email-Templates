@@ -16,24 +16,6 @@
       "title": "Wrap-up Email 1",
       "subject": "Wrap-up Email - No high or crit",
       "body": "Hi,\n\nI am writing to confirm that the <<AssessmentType>> assessment have been completed.\n\nNo critical issues requiring immediate attention were identified. However, some lower-severity findings were noted and will be detailed in the final report. This report will be shared with you once our internal quality assurance process is complete.\n\nThank you for your assistance throughout the assessment.\n\nMany Thanks,"
-    },
-    {
-      "id": "weekly-status",
-      "title": "Weekly Status Update",
-      "subject": "<<PROJECT NAME>> – Weekly status update (week of <<WEEK STARTING>>)",
-      "body": "Hi <<CLIENT NAME>>,\n\nHere is the weekly update for <<PROJECT NAME>>.\n\nProgress this week\n  • <<PROGRESS ITEM 1>>\n  • <<PROGRESS ITEM 2>>\n  • <<PROGRESS ITEM 3>>\n\nPlanned for next week\n  • <<NEXT ITEM 1>>\n  • <<NEXT ITEM 2>>\n\nRisks / blockers\n  • <<RISK OR BLOCKER>>\n\nDecisions needed from you\n  • <<DECISION NEEDED>>\n\nLet me know if you'd like to walk through any of this on a call.\n\nThanks,\n<<YOUR NAME>>"
-    },
-    {
-      "id": "discovery-followup",
-      "title": "Discovery Workshop Follow-up",
-      "subject": "Recap & next steps from our discovery session",
-      "body": "Hi <<CLIENT NAME>>,\n\nThanks for your time today – it was a really productive session and gave us a much clearer picture of where <<COMPANY NAME>> wants to take <<INITIATIVE>>.\n\nKey takeaways\n  • <<TAKEAWAY 1>>\n  • <<TAKEAWAY 2>>\n  • <<TAKEAWAY 3>>\n\nProposed next steps\n  1. I will draft a summary deck and share it by <<DATE>>.\n  2. We will validate the proposed approach with <<STAKEHOLDER>>.\n  3. From there we can scope the next phase and align on timing.\n\nIf I've missed anything important, please reply and I will fold it into the recap.\n\nBest,\n<<YOUR NAME>>"
-    },
-    {
-      "id": "scope-clarification",
-      "title": "Scope Clarification Request",
-      "subject": "Quick clarification on <<TOPIC>>",
-      "body": "Hi <<CLIENT NAME>>,\n\nBefore we go any further on <<TOPIC>>, I'd like to make sure we're aligned on the scope so we don't lose time later.\n\nMy current understanding is:\n  • <<UNDERSTANDING POINT 1>>\n  • <<UNDERSTANDING POINT 2>>\n\nA couple of points I'd like to confirm:\n  1. <<QUESTION 1>>\n  2. <<QUESTION 2>>\n  3. <<QUESTION 3>>\n\nOnce these are settled I'll update the working document and circulate it for sign-off.\n\nThanks,\n<<YOUR NAME>>"
     }
   ]
 }

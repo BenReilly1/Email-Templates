@@ -16,18 +16,6 @@
       "title": "Confirming Dates",
       "subject": "Set date for pentest",
       "body": "Hi, \n\nThank you for sending over the completed authorisation form to us\n\nOur next availability to carry out this testing will be the <<Dates>>, would that work for you? If so, let me know and I can secure these dates on our end.\n\nBest wishes,"
-    },
-    {
-      "id": "milestone-complete",
-      "title": "Milestone Completed",
-      "subject": "<<PROJECT NAME>> – <<MILESTONE>> complete ✅",
-      "body": "Hi <<CLIENT NAME>>,\n\nQuick note to confirm we've completed the <<MILESTONE>> milestone on <<PROJECT NAME>>.\n\nWhat was delivered\n  • <<DELIVERABLE 1>>\n  • <<DELIVERABLE 2>>\n  • <<DELIVERABLE 3>>\n\nAcceptance\nPlease review and confirm acceptance by <<ACCEPTANCE DATE>>. If we don't hear back by then we will assume the milestone is accepted.\n\nWhat's next\n  • <<NEXT MILESTONE>> – planned for <<NEXT MILESTONE DATE>>\n\nHappy to walk through any of this on a call if helpful.\n\nThanks,\n<<YOUR NAME>>"
-    },
-    {
-      "id": "go-live-comms",
-      "title": "Go-live Communication",
-      "subject": "<<PROJECT NAME>> – Go-live on <<GO LIVE DATE>>",
-      "body": "Hi all,\n\nWe're on track to go live with <<PROJECT NAME>> on <<GO LIVE DATE>>. Here is what you need to know.\n\nWhat's changing\n  • <<CHANGE 1>>\n  • <<CHANGE 2>>\n\nWhat you need to do\n  • <<USER ACTION 1>>\n  • <<USER ACTION 2>>\n\nDowntime / impact\n<<DOWNTIME DETAILS>>\n\nSupport\nIf you hit any issues, contact <<SUPPORT CONTACT>> and reference \"<<PROJECT NAME>> go-live\".\n\nThanks for all the work that has gone into getting us here.\n\nBest,\n<<YOUR NAME>>"
     }
   ]
 }
